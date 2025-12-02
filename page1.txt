@@ -1,1 +1,1 @@
-My first self-learning day
+My first self-learning on Git and Github
